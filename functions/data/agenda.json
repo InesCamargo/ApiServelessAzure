@@ -1,0 +1,22 @@
+{
+  "compromissos": [
+    {
+      "data": "2026-06-08",
+      "hora": "09:00",
+      "titulo": "Daily do projeto",
+      "descricao": "Alinhamento rapido com o time"
+    },
+    {
+      "dia_semana": "segunda",
+      "hora": "14:30",
+      "titulo": "Revisar pendencias",
+      "descricao": "Checar tarefas abertas da semana"
+    },
+    {
+      "dia_semana": "friday",
+      "hora": "17:00",
+      "titulo": "Planejamento da proxima semana",
+      "descricao": "Organizar prioridades"
+    }
+  ]
+}

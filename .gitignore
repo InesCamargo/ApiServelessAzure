@@ -1,0 +1,11 @@
+# Azure Functions local settings (contains local secrets/config)
+functions/local.settings.json
+
+# Python cache and env
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/

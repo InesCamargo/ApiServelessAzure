@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SMTP_HOST": "smtp.office365.com",
+    "SMTP_PORT": "587",
+    "SMTP_USER": "seu-email@dominio.com",
+    "SMTP_PASSWORD": "sua-senha-ou-app-password",
+    "EMAIL_FROM": "seu-email@dominio.com",
+    "EMAIL_TO": "ive1000@hotmail.com"
+  }
+}
